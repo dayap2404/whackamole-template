@@ -2,6 +2,8 @@ import pygame
 
 #helloooo
 #hellohello
+
+# new comment after token initializaton
 def main():
     try:
         pygame.init()
